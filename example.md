@@ -1,10 +1,18 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Example markdown
 ---
 
-# This is a H1
+# Hello!
 
-[the clickable text](http://tennis.com/)
+[I like links](http://github.com/)
 
-* Bullet lists are also easy to create
-* One more
+Check this out:
+
+ - here's a list
+ - with more than one element
+
+Also, this is cool:
+
+ 1. number one
+ 2. not number one
+ 3. the third already!
