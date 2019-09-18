@@ -1,24 +1,31 @@
 # Notes on "General Systems Thinking" by Gerald Weinberg
 
-## 1
+## The problem
 
-- The Law of Medium Numbers
+- The Law of Medium Numbers -- "for medium number systems, we can expect that large fluctuations, irregularities, and discrepancy with any theory will occur more or less regularly"
+- large number systems can be described statistically
+- medium number systems are hard to study and describe
+- small number systems can be described analytically
+- in machines created by humans, the hardest parts to build and the most fragile are the interfaces
+- physics was successful because it did a great job of carefully limiting what it describes and where it's applied
+- Newton's great accomplishment wasn't his laws of motion -- it was to figure out what could be ignored
 - murphy's Law
 - complexity
 - mechanism, mechanics
 - simplification
 
-## 2
+## The approach
 
 - organism, analogy, and vitalism
 - scientists and categories
-- order of the 2nd degress is "the main article of general systems faith"
+- order of the 2nd degree is "the main article of general systems faith"
 - law of the conservation of laws "when facts contradict the law, reject the facts or change the definitions, but never throw away the law"
-- "any general law must have at least two specific applications"
-- "any general law is bound to have at least two exceptions"
-- "if you never say anthing wrong, you never say anything"
-- "the whole is more than the sum of its parts"
-- "the part is more than a fraction of the whole"
+- law of happy particularities: "any general law must have at least two specific applications"
+- law of unhappy pecularities:
+  - "any general law is bound to have at least two exceptions"
+  - "if you never say anthing wrong, you never say anything"
+- composition law: "the whole is more than the sum of its parts"
+- decomposition law: "the part is more than a fraction of the whole"
 - Models are for:
   - improving thought processes
   - studying special systems
@@ -28,7 +35,7 @@
 ## System and Illusion
 
 - "a system is a way of looking at the world"
-- "heuristic devices don't tell you when to stop applying them"
+- banana principle: "heuristic devices don't tell you when to stop applying them"
 - absolute and relative thinking
 - a system is relative to its observer
 - observers and observations
@@ -47,11 +54,11 @@
   - "to a certain extent, mental power can compensate for observational weakness"
   - "to a certain extent, observational power can compensate for mental weakness"
 - "knowing means knowing how to ignore certain details"
-- "more probable states are more likely to be observed than less probable states, unless specific constraints exist to keep them from occuring"
+- generalized thermodynamic law: "more probable states are more likely to be observed than less probable states, unless specific constraints exist to keep them from occuring"
 - "the things we see more frequently are more frequent because":
   1. there is a physical reason to favor certain states
   2. there is a mental reason to favor certain states
-- "if we want to learn anything, we shouldn't try to learn everything"
+- lump law: "if we want to learn anything, we shouldn't try to learn everything"
 - reductionism
 - incompleteness
 - overcompleteness
